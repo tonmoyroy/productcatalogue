@@ -1,8 +1,8 @@
-####Requirements elicitation strategy:
+#### Requirements elicitation strategy: ####
 * Brainstorming, Requirement Document Analysis, Discuss with stakeholders, Prototyping and gather feedbacks
 
 
-####Development strategy:
+#### Development strategy: ####
 * Divide task in epics and create jira tickets based on the minimum testable unit (MTU)
 * Assign them to the team.
 
